@@ -1,0 +1,16 @@
+body {
+	margin-bottom: 120px;
+}
+
+
+.navbar-inverse {
+    background-color: #000000;
+    border-color: #ff0000;
+}
+.navbar-default {
+    background-color: #000000;
+    border-color: #ff0000;
+}
+p {
+text-indent: 2em;
+} 
